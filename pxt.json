@@ -1,0 +1,29 @@
+{
+    "name": "Lekcja 11 - starter",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.30",
+        "tag": "v2.0.30",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/2db5781111497214e2f8d5810bb003a07fbee1d3",
+        "target": "2.0.30",
+        "pxt": "11.2.33",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "pyprj"
+}
